@@ -1,0 +1,1 @@
+echo "Directorul home al utilizatorului curent este: $HOME"
